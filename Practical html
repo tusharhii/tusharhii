@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>
+Tushar's Practical Assignment
+</title>
+</head>
+<body>
+<center><h1>Practical Assignment-1 by Tushar shukla</h1></center>
+<form align="center">
+Username<input type="text"><br><br>
+Password  <input type="password"><br><br>
+Date of Birth<input type="date"><br><br>
+Gender <input type="radio" name="Gender"> MALE
+        <input type="radio" name="Gender"> FEMALE<br><br> 
+		<input type="checkbox">Click for secure access.<br><br> 
+		<input type="Reset">
+        <input type="submit">
+</form>
+
+ My favourite place is <i>Pachmarhi</i> i went many places in pachmarhi<u> like Pandava Caves,Bee Falls and Dhoopgarh.</u> I live in <b>Bhopal</b> <P>Pachmarhi is a hill station in Narmadapuram district of Madhya Pradesh state of central India. 
+ <p><img src="C:\Users\Tusha\New folder\OneDrive\Documents\pachmarhi.jpg" alt="pachmarhi picture missing" height="200"  width="200">
+ <p>Pachmarhi, also known as <mark>Satpura ki Rani</mark>, is a hill station in the central Indian state of Madhya Pradesh. Its many waterfalls include Apsara Vihar, with its calm pool, and soaring, single-drop Silver Fall nearby. The Bee Fall tumbles over a jagged rock face to the northwest. Leopards and Indian bison live in Satpura National Park. The ancient Pandav Caves are a group of 5 dwellings cut out of sandstone on a hill <a href="https://www.mptourism.com/destination-panchmarhi.php">about pachmarhi by MP tourism</a>
+ <abbr title="MP TOURISM">MPT</abbr>
+ 
+ 
+ <p>
+<iframe src="https://www.rgpvdiploma.in"></iframe>
+</body>
+</html>
