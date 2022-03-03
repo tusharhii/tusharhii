@@ -1,4 +1,9 @@
 <html>
+<style>
+table, th, td {
+    border :1px solid black; 
+}
+</style>
 <head>
 <title>
 Tushar's Practical Assignment
@@ -25,11 +30,53 @@ Gender <input type="radio" name="Gender"> MALE
  
  <p>
 <iframe src="https://www.rgpvdiploma.in"></iframe>
+<h2>Places in Pachmarhi<h2>
 <ul>
    <li>Pandava Cave</li>
    <li>Bee Falls</li>
    <li>Dhoopgarh</li>
    
 </ul>
+<center><h2><b>Places to visit in Pachmarhi<b><h2></center>
+<center>
+<table style="width:50%">
+  <tr>
+    <th>Places</th>
+    <th>Best time to visit</th>
+	<th>Address</th>
+	<th>Distance From Pachmarhi</th>
+  </tr>
+  <tr>
+     <td>Bee Fall</td>
+	 <td>October to March</td>
+     <td>FCG4+2WH, Pachmarhi, Madhya Pradesh 461881</td>
+	 <td>10 Km</td>
+   </tr>
+   <tr>
+     <td>Pandava Cave</td>
+	 <td>October to March</td>
+     <td>FC5J+9W4, Pachmarhi, Madhya Pradesh 461881</td>
+	 <td>15 Km</td>
+    </tr>
+	<tr>
+     <td>Dhoopgarh</td>
+	 <td>October to March</td>
+     <td>Dhupgarh, Kajri, Madhya Pradesh 461881, Pachmarhi, India</td>
+	 <td>4.6 Km</td>
+    </tr>
+	<tr>
+     <td>Satpura National Park</td>
+	 <td>October to March</td>
+     <td>H4CV+6G6, Damua, Madhya Pradesh 461881</td>
+	 <td>7.9 Km</td>
+    </tr>
+	<tr>
+     <td>Jata Shankar Caves</td>
+	 <td>October to March</td>
+     <td>Jatashankar Rd, Pachmarhi, Madhya Pradesh 461881</td>
+	 <td>1.8 Km</td>
+    </tr>
+</table>
+</center> 
 </body>
 </html>
